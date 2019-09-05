@@ -1,12 +1,11 @@
 GIT
-  remote: https://github.com/awesome-print/awesome_print
+  remote: git@github.com:awesome-print/awesome_print.git
   revision: 4564fd74721562cbef2443f7d97109bf9192343d
   specs:
     awesome_print (1.8.0)
 
 GEM
   remote: https://rubygems.org/
-  remote: https://github.com/
   specs:
     addressable (2.3.8)
     coderay (1.1.2)
